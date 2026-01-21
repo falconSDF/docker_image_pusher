@@ -13,4 +13,4 @@ reg.kyverno.io/kyverno/reports-controller:v1.16.0
 
 registry.k8s.io/nfd/node-feature-discovery:v0.13.2
 
-bitnami/kubectl:1.28
+bitnami/kubectl:latest
