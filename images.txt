@@ -11,10 +11,14 @@
 #reg.kyverno.io/kyverno/cleanup-controller:v1.16.0
 #reg.kyverno.io/kyverno/reports-controller:v1.16.0
 #
+
+
 #registry.k8s.io/nfd/node-feature-discovery:v0.13.2
 #
 #bitnami/kubectl:latest
 
 
-quay.io/prometheus-operator/prometheus-operator:v0.88.1
-quay.io/kiwigrid/k8s-sidecar:2.5.0
+
+#quay.io/prometheus-operator/prometheus-operator:v0.88.1
+#quay.io/kiwigrid/k8s-sidecar:2.5.0
+registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.18.0
