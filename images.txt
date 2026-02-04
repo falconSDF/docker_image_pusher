@@ -17,4 +17,4 @@
 
 
 quay.io/prometheus-operator/prometheus-operator:v0.88.1
-quay.mirrors.ustc.edu.cn/kiwigrid/k8s-sidecar:2.5.0
+quay.io/kiwigrid/k8s-sidecar:2.5.0
