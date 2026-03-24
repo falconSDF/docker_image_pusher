@@ -31,8 +31,8 @@
 #grafana/grafana:12.3.1
 
 #ghcr.io/kiwigrid/k8s-sidecar:1.30.1
-kubecost1/cost-model:prod-2.8.4
 kubecost1/cost-model:prod-1.62.0
+gcr.io/kubecost1/cost-model:prod-2.8.4
 gcr.io/kubecost1/kubecost-modeling:v0.1.31
 
 #######################################################
