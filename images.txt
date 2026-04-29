@@ -37,8 +37,10 @@
 
 #casbin/casdoor:3.49.0
 
-quay.io/keycloak/keycloak:26.6.1
+#quay.io/keycloak/keycloak:26.6.1
 
+docker.io/library/postgres:16-alpine
+ghcr.io/goauthentik/server:2026.2.2
 #######################################################
 
 
