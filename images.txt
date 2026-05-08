@@ -36,11 +36,12 @@
 #gcr.io/kubecost1/frontend:prod-2.8.4
 
 #casbin/casdoor:3.49.0
+casbin/casdoor:v1.454.0
 
 #quay.io/keycloak/keycloak:26.6.1
 
-docker.io/library/postgres:16-alpine
-ghcr.io/goauthentik/server:2026.2.2
+#docker.io/library/postgres:16-alpine
+#ghcr.io/goauthentik/server:2026.2.2
 #######################################################
 
 
